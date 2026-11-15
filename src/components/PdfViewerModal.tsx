@@ -63,7 +63,7 @@ export const PdfViewerModal: React.FC<PdfViewerModalProps> = ({ file, onClose })
             </a>
 
             <a
-              href={file.url}
+              href={file.url.startsWith('http') ? `${file.url}${file.url.includes('?') ? '&' : '?'}download=` : file.url}
               download={file.name}
               className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold text-white bg-blue-600 hover:bg-blue-700 transition-colors shadow-sm"
               title="Télécharger le document"

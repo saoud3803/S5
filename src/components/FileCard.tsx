@@ -87,7 +87,7 @@ export const FileCard: React.FC<FileCardProps> = ({ file, onPreview, showModuleB
           )}
 
           <a
-            href={file.url}
+            href={file.url.startsWith('http') ? `${file.url}${file.url.includes('?') ? '&' : '?'}download=` : file.url}
             download={file.name}
             className="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-lg text-xs font-medium text-white bg-slate-900 hover:bg-blue-600 dark:bg-slate-800 dark:hover:bg-blue-600 dark:text-slate-100 transition-colors shadow-sm"
             title="Télécharger le fichier"

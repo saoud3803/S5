@@ -121,16 +121,6 @@ ALLOWED_MODULES = {
         "bgLight": "bg-blue-50 dark:bg-blue-950/40",
         "borderLight": "border-blue-200 dark:border-blue-800/50"
     },
-    "Innovation et simulation de jeu d'entreprise": {
-        "professor": "Prof. Ghatay Khadija",
-        "schedule": "Mercredi • 14h30 - 18h45 (Salle ??)",
-        "icon": "Sparkles",
-        "description": "Management stratégique, simulation de gestion d'entreprise, entrepreneuriat et innovation.",
-        "color": "from-purple-500 to-pink-600",
-        "accent": "text-purple-500",
-        "bgLight": "bg-purple-50 dark:bg-purple-950/40",
-        "borderLight": "border-purple-200 dark:border-purple-800/50"
-    },
     "Projets et marchés publics": {
         "professor": "Prof. F. ELABASSI",
         "schedule": "Jeudi • 14h30 - 18h45 (Salle GC3)",
@@ -140,16 +130,6 @@ ALLOWED_MODULES = {
         "accent": "text-orange-500",
         "bgLight": "bg-orange-50 dark:bg-orange-950/40",
         "borderLight": "border-orange-200 dark:border-orange-800/50"
-    },
-    "Langues et techniques d'Expression Anglais LTC3": {
-        "professor": "Professeur LTC3",
-        "schedule": "Vendredi • 08h30 - 12h45",
-        "icon": "Compass",
-        "description": "Communication technique en anglais pour ingénieurs, rédaction professionnelle et présentations orales.",
-        "color": "from-cyan-500 to-blue-600",
-        "accent": "text-cyan-500",
-        "bgLight": "bg-cyan-50 dark:bg-cyan-950/40",
-        "borderLight": "border-cyan-200 dark:border-cyan-800/50"
     }
 }
 
@@ -319,9 +299,7 @@ def sync_all():
         "Dynamiques des structures et Etude parasismique",
         "Ouvrages géotechniques",
         "Construction métallique",
-        "Innovation et simulation de jeu d'entreprise",
-        "Projets et marchés publics",
-        "Langues et techniques d'Expression Anglais LTC3"
+        "Projets et marchés publics"
     ]
     
     for mod_name in ordered_names:

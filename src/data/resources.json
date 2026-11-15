@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Bibliothèque Numérique S5 - Génie Civil",
     "semester": "S5",
-    "totalModules": 7,
+    "totalModules": 5,
     "totalDocuments": 339,
     "generatedAt": "2026-09-18"
   },
@@ -11772,85 +11772,6 @@
       ]
     },
     {
-      "id": "innovation-et-simulation-de-jeu-dentreprise",
-      "slug": "innovation-et-simulation-de-jeu-dentreprise",
-      "name": "Innovation et simulation de jeu d'entreprise",
-      "professor": "Prof. Ghatay Khadija",
-      "schedule": "Mercredi • 14h30 - 18h45 (Salle ??)",
-      "description": "Management stratégique, simulation de gestion d'entreprise, entrepreneuriat et innovation.",
-      "icon": "Sparkles",
-      "color": "from-purple-500 to-pink-600",
-      "accent": "text-purple-500",
-      "bgLight": "bg-purple-50 dark:bg-purple-950/40",
-      "borderLight": "border-purple-200 dark:border-purple-800/50",
-      "totalFiles": 0,
-      "categories": {
-        "Cours": {
-          "key": "Cours",
-          "name": "📚 Cours",
-          "count": 0,
-          "files": []
-        },
-        "TD": {
-          "key": "TD",
-          "name": "📝 Exercices / TD",
-          "count": 0,
-          "files": []
-        },
-        "TP": {
-          "key": "TP",
-          "name": "💻 TP",
-          "count": 0,
-          "files": []
-        },
-        "Examens": {
-          "key": "Examens",
-          "name": "📄 Examens",
-          "count": 0,
-          "files": []
-        },
-        "Corriges": {
-          "key": "Corriges",
-          "name": "✅ Corrigés",
-          "count": 0,
-          "files": []
-        },
-        "Projets": {
-          "key": "Projets",
-          "name": "🎯 Projets & Exposés",
-          "count": 0,
-          "files": []
-        },
-        "Autres": {
-          "key": "Autres",
-          "name": "📁 Autres documents",
-          "count": 0,
-          "files": []
-        }
-      },
-      "files": [],
-      "categoriesList": [
-        {
-          "key": "Cours",
-          "name": "📚 Cours",
-          "count": 0,
-          "files": []
-        },
-        {
-          "key": "TD",
-          "name": "📝 Exercices / TD",
-          "count": 0,
-          "files": []
-        },
-        {
-          "key": "Examens",
-          "name": "📄 Examens",
-          "count": 0,
-          "files": []
-        }
-      ]
-    },
-    {
       "id": "projets-et-marches-publics",
       "slug": "projets-et-marches-publics",
       "name": "Projets et marchés publics",
@@ -12787,85 +12708,6 @@
               "url": "/resources/Projets et marchés publics/Projets/Statu juridique.rar"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "langues-et-techniques-dexpression-anglais-ltc3",
-      "slug": "langues-et-techniques-dexpression-anglais-ltc3",
-      "name": "Langues et techniques d'Expression Anglais LTC3",
-      "professor": "Professeur LTC3",
-      "schedule": "Vendredi • 08h30 - 12h45",
-      "description": "Communication technique en anglais pour ingénieurs, rédaction professionnelle et présentations orales.",
-      "icon": "Compass",
-      "color": "from-cyan-500 to-blue-600",
-      "accent": "text-cyan-500",
-      "bgLight": "bg-cyan-50 dark:bg-cyan-950/40",
-      "borderLight": "border-cyan-200 dark:border-cyan-800/50",
-      "totalFiles": 0,
-      "categories": {
-        "Cours": {
-          "key": "Cours",
-          "name": "📚 Cours",
-          "count": 0,
-          "files": []
-        },
-        "TD": {
-          "key": "TD",
-          "name": "📝 Exercices / TD",
-          "count": 0,
-          "files": []
-        },
-        "TP": {
-          "key": "TP",
-          "name": "💻 TP",
-          "count": 0,
-          "files": []
-        },
-        "Examens": {
-          "key": "Examens",
-          "name": "📄 Examens",
-          "count": 0,
-          "files": []
-        },
-        "Corriges": {
-          "key": "Corriges",
-          "name": "✅ Corrigés",
-          "count": 0,
-          "files": []
-        },
-        "Projets": {
-          "key": "Projets",
-          "name": "🎯 Projets & Exposés",
-          "count": 0,
-          "files": []
-        },
-        "Autres": {
-          "key": "Autres",
-          "name": "📁 Autres documents",
-          "count": 0,
-          "files": []
-        }
-      },
-      "files": [],
-      "categoriesList": [
-        {
-          "key": "Cours",
-          "name": "📚 Cours",
-          "count": 0,
-          "files": []
-        },
-        {
-          "key": "TD",
-          "name": "📝 Exercices / TD",
-          "count": 0,
-          "files": []
-        },
-        {
-          "key": "Examens",
-          "name": "📄 Examens",
-          "count": 0,
-          "files": []
         }
       ]
     }
